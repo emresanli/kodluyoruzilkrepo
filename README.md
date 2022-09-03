@@ -14,7 +14,7 @@ Linux için:
 code.
 
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmel istediğinizi tartışacak bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışacak bir konu açınız.
 
 ## licance
 [MIT](https://choosealicense.com/licenses/mit/)
