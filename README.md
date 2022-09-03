@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [Patika Profilim](https://app.patika.dev/jeo)
 
-![Proje ekran görüntüsü](https://ibb.co/4YW142Q)
+![Proje ekran görüntüsü](https://imgyukle.com/f/2022/09/03/nHbhrU.png)
